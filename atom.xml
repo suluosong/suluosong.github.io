@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>咕咕宝的网站</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://suluosong.github.io/"/>
+  <updated>2020-05-02T02:55:03.104Z</updated>
+  <id>https://suluosong.github.io/</id>
+  
+  <author>
+    <name>本宝新支柱</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>网站搭建笔记</title>
+    <link href="https://suluosong.github.io/2020/05/01/%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA%E7%AC%94%E8%AE%B0-1/"/>
+    <id>https://suluosong.github.io/2020/05/01/%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA%E7%AC%94%E8%AE%B0-1/</id>
+    <published>2020-05-02T00:56:33.000Z</published>
+    <updated>2020-05-02T02:55:03.104Z</updated>
+    
+    <content type="html"><![CDATA[<img src="https://cdn.cultofmac.com/wp-content/uploads/2013/05/lisasimpsonapple.jpg" style="zoom:50%;" /><h6 id="参考网址汇总"><a href="#参考网址汇总" class="headerlink" title="参考网址汇总"></a>参考网址汇总</h6><ul><li><a href="https://sspai.com/post/59337" target="_blank" rel="noopener">少数派在mac端搭建</a></li><li><a href="https://hexo.io/" target="_blank" rel="noopener">hexo 官网</a></li><li><a href="https://docs.typo3.org/m/typo3/guide-contributionworkflow/master/en-us/Appendix/OSX/SSHKeyOSX.html" target="_blank" rel="noopener">用的上的一些运行符</a></li><li><a href="https://www.zhihu.com/search?type=content&q=hexo" target="_blank" rel="noopener">知乎汇总</a></li></ul><h6 id="Pay-attention"><a href="#Pay-attention" class="headerlink" title="Pay attention :"></a>Pay attention :</h6><ul><li>yarn 下安装 hexo 不需要启用 Root </li><li>github 仓库地址要完全与脚本温和</li><li>hexo init blog （ 默认初始化设置文件夹为 blog）</li><li>hexo 部署前，要把 SHH KEY 和脚本修改 </li><li>单篇推送出现问题，可删除重建 </li></ul><h6 id="其它工具"><a href="#其它工具" class="headerlink" title="其它工具"></a>其它工具</h6><ul><li><p>iterm - mac 终端</p></li><li><p>atom -改脚本</p></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;img src=&quot;https://cdn.cultofmac.com/wp-content/uploads/2013/05/lisasimpsonapple.jpg&quot; style=&quot;zoom:50%;&quot; /&gt;
+
+
+
+&lt;h6 id=&quot;参考网址汇总&quot;&gt;&lt;a href=&quot;#参考网址汇
+      
+    
+    </summary>
+    
+    
+    
+      <category term="note" scheme="https://suluosong.github.io/tags/note/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>天字号第一贴</title>
+    <link href="https://suluosong.github.io/2020/05/01/%E5%A4%A9%E5%AD%97%E5%8F%B7%E7%AC%AC%E4%B8%80%E8%B4%B4/"/>
+    <id>https://suluosong.github.io/2020/05/01/%E5%A4%A9%E5%AD%97%E5%8F%B7%E7%AC%AC%E4%B8%80%E8%B4%B4/</id>
+    <published>2020-05-01T23:11:12.000Z</published>
+    <updated>2020-05-02T03:07:16.852Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/other/cat_relaxing_on_patio_other/1800x1200_cat_relaxing_on_patio_other.jpg?resize=750px:*" alt=""> </p><p>​    <strong>HELLO WORLD</strong> </p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;img src=&quot;https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/other/cat_relaxing_on_patio_other/1800x1
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
