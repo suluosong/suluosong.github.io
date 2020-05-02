@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://suluosong.github.io/"/>
-  <updated>2020-05-02T19:00:26.495Z</updated>
+  <updated>2020-05-02T19:53:19.212Z</updated>
   <id>https://suluosong.github.io/</id>
   
   <author>
@@ -17,13 +17,37 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Synthetic Nature</title>
+    <link href="https://suluosong.github.io/2020/05/02/post-01/"/>
+    <id>https://suluosong.github.io/2020/05/02/post-01/</id>
+    <published>2020-05-02T19:51:23.000Z</published>
+    <updated>2020-05-02T19:53:19.212Z</updated>
+    
+    <content type="html"><![CDATA[<iframe src="https://player.vimeo.com/video/145916065" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe><p><a href="https://vimeo.com/145916065" target="_blank" rel="noopener">]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;iframe src=&quot;https://player.vimeo.com/video/145916065&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; fullscreen&quot; allowfullscreen
+      
+    
+    </summary>
+    
+    
+    
+      <category term="Video" scheme="https://suluosong.github.io/tags/Video/"/>
+    
+  </entry>
+  
+  <entry>
     <title>网站搭建笔记</title>
     <link href="https://suluosong.github.io/2020/05/01/%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA%E7%AC%94%E8%AE%B0-1/"/>
     <id>https://suluosong.github.io/2020/05/01/%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA%E7%AC%94%E8%AE%B0-1/</id>
     <published>2020-05-02T00:56:33.000Z</published>
-    <updated>2020-05-02T19:00:26.495Z</updated>
+    <updated>2020-05-02T19:44:42.628Z</updated>
     
-    <content type="html"><![CDATA[<img src="https://cdn.cultofmac.com/wp-content/uploads/2013/05/lisasimpsonapple.jpg" style="zoom:50%;" /><h6 id="参考网址汇总"><a href="#参考网址汇总" class="headerlink" title="参考网址汇总"></a>参考网址汇总</h6><ul><li><p><a href="https://sspai.com/post/59337" target="_blank" rel="noopener">少数派在mac端搭建</a></p></li><li><p><a href="https://hexo.io/" target="_blank" rel="noopener">hexo 官网</a></p></li><li><p><a href="https://docs.typo3.org/m/typo3/guide-contributionworkflow/master/en-us/Appendix/OSX/SSHKeyOSX.html" target="_blank" rel="noopener">用的上的一些运行符</a></p></li><li><p><a href="https://www.zhihu.com/search?type=content&q=hexo" target="_blank" rel="noopener">知乎汇总</a></p></li></ul>  <a id="more"></a><h6 id="Pay-attention"><a href="#Pay-attention" class="headerlink" title="Pay attention :"></a>Pay attention :</h6><ul><li>yarn 下安装 hexo 不需要启用 Root </li><li>github 仓库地址要完全与脚本温和</li><li>hexo init blog （ 默认初始化设置文件夹为 blog）</li><li>hexo 部署前，要把 SHH KEY 和脚本修改 </li><li>单篇推送出现问题，可删除重建 </li></ul><h6 id="其它工具"><a href="#其它工具" class="headerlink" title="其它工具"></a>其它工具</h6><ul><li><p>iterm - mac 终端</p></li><li><p>atom -改脚本</p></li></ul>]]></content>
+    <content type="html"><![CDATA[<img src="https://cdn.cultofmac.com/wp-content/uploads/2013/05/lisasimpsonapple.jpg" style="zoom:50%;" /><h6 id="参考网址汇总"><a href="#参考网址汇总" class="headerlink" title="参考网址汇总"></a>参考网址汇总</h6><ul><li><p><a href="https://sspai.com/post/59337" target="_blank" rel="noopener">少数派在mac端搭建</a></p></li><li><p><a href="https://hexo.io/" target="_blank" rel="noopener">hexo 官网</a></p></li><li><p><a href="https://docs.typo3.org/m/typo3/guide-contributionworkflow/master/en-us/Appendix/OSX/SSHKeyOSX.html" target="_blank" rel="noopener">用的上的一些运行符</a></p></li><li><p><a href="https://www.zhihu.com/search?type=content&q=hexo" target="_blank" rel="noopener">知乎汇总</a></p></li></ul>  <a id="more"></a><h6 id="Pay-attention"><a href="#Pay-attention" class="headerlink" title="Pay attention :"></a>Pay attention :</h6><ul><li>yarn 下安装 hexo 不需要启用 Root </li><li>github 仓库地址要完全与脚本温和</li><li>hexo init blog （ 默认初始化设置文件夹为 blog）</li><li>hexo 部署前，要把 SHH KEY 和脚本修改 </li><li>单篇推送出现问题，可删除重建 </li></ul><h6 id="其它工具"><a href="#其它工具" class="headerlink" title="其它工具"></a>其它工具</h6><ul><li>iterm - mac 终端</li><li>atom -改脚本</li></ul><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">hexo n &#x3D;&#x3D; hexo new</span><br><span class="line">hexo g &#x3D;&#x3D; hexo generate</span><br><span class="line">hexo s &#x3D;&#x3D; hexo server</span><br><span class="line">hexo d &#x3D;&#x3D; hexo deploy</span><br></pre></td></tr></table></figure>]]></content>
     
     <summary type="html">
     

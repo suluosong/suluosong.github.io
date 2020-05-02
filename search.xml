@@ -34,14 +34,25 @@
 <li>单篇推送出现问题，可删除重建 </li>
 </ul>
 <h6 id="其它工具"><a href="#其它工具" class="headerlink" title="其它工具"></a>其它工具</h6><ul>
-<li><p>iterm - mac 终端</p>
-</li>
-<li><p>atom -改脚本</p>
-</li>
+<li>iterm - mac 终端</li>
+<li>atom -改脚本</li>
 </ul>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">hexo n &#x3D;&#x3D; hexo new</span><br><span class="line">hexo g &#x3D;&#x3D; hexo generate</span><br><span class="line">hexo s &#x3D;&#x3D; hexo server</span><br><span class="line">hexo d &#x3D;&#x3D; hexo deploy</span><br></pre></td></tr></table></figure>
+
 ]]></content>
       <tags>
         <tag>note</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Synthetic Nature</title>
+    <url>/2020/05/02/post-01/</url>
+    <content><![CDATA[<iframe src="https://player.vimeo.com/video/145916065" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/145916065" target="_blank" rel="noopener">
+
+]]></content>
+      <tags>
+        <tag>Video</tag>
       </tags>
   </entry>
 </search>
